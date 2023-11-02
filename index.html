@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Document</title>
+</head>
+    <body>
+    <h1>Xengele go'ing insAllah</h1>
+<div class="container">
+    <div class="box">
+        <h2>Fill up</h2>
+    <label for="">Name :</label>
+    <input type="text" id="name-input">
+    <label for="">Position :</label>
+    <select id="pos-input" >
+        <option>Student</option>
+        <option>Teacher</option>
+    </select>
+    <button onclick="fetchData()">Show</button>
+    <button onclick="creatPost()">Creat</button>
+    <button onclick="updatePost()">Update</button>
+</div>
+    <div class="box2">
+    <table border="1">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Position</th>
+                <th >Actions</th>
+            </tr>
+        </thead>
+        <tbody id="data-table">
+            
+        </tbody>
+
+
+    </table>
+</div>
+</div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.6.0/axios.min.js" integrity="sha512-WrdC3CE9vf1nBf58JHepuWT4x24uTacky9fuzw2g/3L9JkihgwZ6Cfv+JGTtNyosOhEmttMtEZ6H3qJWfI7gIQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+    <script src="./crud.js"></script>
+</body>
+</html>

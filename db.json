@@ -1,0 +1,104 @@
+{
+  "products": [{
+    "name": "MemmedTaqi",
+    "position": "Student",
+    "id": 1
+  },
+  {
+    "name": "Ilkin",
+    "position": "Student",
+    "id": 2
+  },
+  {
+    "name": "Ehmed",
+    "position": "Student",
+    "id": 3
+  },
+  {
+    "name": "Rehim",
+    "position": "Student",
+    "id": 4
+  },
+  {
+    "name": "Emrah",
+    "position": "Student",
+    "id": 5
+  },
+  {
+    "name": "Alpay",
+    "position": "Student",
+    "id": 6
+  },
+  {
+    "name": "Nurane",
+    "position": "Student",
+    "id": 7
+  },
+  {
+    "name": "Mehriban",
+    "position": "Student",
+    "id": 8
+  },
+  {
+    "name": "Nazile",
+    "position": "Student",
+    "id": 9
+  },
+  {
+    "name": "Esli",
+    "position": "Student",
+    "id": 10
+  },
+  {
+    "name": "Amirxan",
+    "position": "Student",
+    "id": 11
+  },
+  {
+    "name": "Ali",
+    "position": "Student",
+    "id": 12
+  },
+  {
+    "name": "Axmed",
+    "position": "Student",
+    "id": 13
+  },
+  {
+    "name": "Kenan",
+    "position": "Student",
+    "id": 14
+  },
+  {
+    "name": "Nihad",
+    "position": "Student",
+    "id": 15
+  },
+  {
+    "name": "Ferid",
+    "position": "Student",
+    "id": 16
+  },
+  {
+    "name": "Togrul",
+    "position": "Student",
+    "id": 17
+  },
+  {
+    "name": "Akif",
+    "position": "Student",
+    "id": 18
+  },
+    {
+      "name": "Hasan",
+      "position": "Teacher",
+      "id": 19
+    },
+    {
+      "name": "Emil",
+      "position": "Teacher",
+      "id": 20
+    }
+  ]
+
+}
